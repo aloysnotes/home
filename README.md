@@ -1,2 +1,0 @@
-# home
-Notes and papers
