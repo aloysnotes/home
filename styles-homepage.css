@@ -3,7 +3,7 @@
 }
 #homepage a.button
 {
-    color:white !important;
+    color:rgb(255, 255, 255) !important;
 }
 #homepage ol, #homepage  ul {
 	list-style: none;
